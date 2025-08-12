@@ -83,6 +83,7 @@ Building impactful AI solutions, mentoring future coders, and constantly explori
 
 ---
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 💬 Quote
+![Quote](https://img.shields.io/badge/%22Stay%20hungry%2C%20stay%20foolish.%22%20%E2%80%94%20Steve%20Jobs-blueviolet?style=for-the-badge)
 
 ⭐ *"Code. Learn. Build. Repeat."*
