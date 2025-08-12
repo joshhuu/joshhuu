@@ -67,7 +67,7 @@ Building impactful AI solutions, mentoring future coders, and constantly explori
 ---
 
 ## 📊 GitHub Stats
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshhuu&show_icons=true&theme=tokyonight)  
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshhuu&layout=compact&theme=tokyonight)
 
 ---
