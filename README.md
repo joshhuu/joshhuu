@@ -6,7 +6,7 @@ Building impactful AI solutions, mentoring future coders, and constantly explori
 ---
 
 ## 🧠 About Me
-- 🎓 **B.Tech in Artificial Intelligence & Data Science** – KAHE, Coimbatore (GPA: 8.5/10)  
+- 🎓 **B.Tech in Artificial Intelligence & Data Science** – KAHE, Coimbatore   
 - 🛠 **Technical Head @ GeeksforGeeks KAHE** – Organizing coding events, mentoring peers in DSA, Python, and Data Science  
 - 🤖 **AI Developer @ Metaverse Association (KAHE R&D Club)** – Research-focused ML workflows & prototypes  
 - 💼 **Ex–AI Developer & Python Intern @ Stepping Edge** – Built NLP chatbots, web scrapers, and scalable APIs  
