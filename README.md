@@ -83,4 +83,6 @@ Building impactful AI solutions, mentoring future coders, and constantly explori
 
 ---
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ⭐ *"Code. Learn. Build. Repeat."*
