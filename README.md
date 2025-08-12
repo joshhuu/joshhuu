@@ -1,47 +1,63 @@
-# Hey, I'm Josh 👋
-
-🚀 **AI & Data Science Enthusiast | Builder | Tech Community Leader**  
-Turning ideas into reality with code, data, and a bit of caffeine.
+<!-- Profile Header -->
+<h1 align="center">Hey, I'm Josh 👋</h1>
+<h3 align="center">🚀 Aspiring AI Engineer | Data Scientist | Musician</h3>
 
 ---
 
+<!-- About Me -->
 ## 🧠 About Me
-- 🎓 B.Tech in **Artificial Intelligence & Data Science** (3rd Year) at KAHE  
-- 🛠 Technical Head, **GeeksforGeeks Student Chapter @ KAHE**  
-- 🤖 Passionate about **AI, Machine Learning, Computer Vision, and Data Science**  
-- 🏆 Hackathon nerd – Top 100 in **Rakathon 2024**, Finalist in **Smart India Hackathon 2024**  
-- 🎸 Guitarist & music enthusiast (Apple Music enjoyer)
+- 🎓 **B.Tech in AI & Data Science @ KAHE**
+- 💼 **Technical Head** – GeeksforGeeks Student Chapter
+- 🏆 Finalist – Smart India Hackathon & Rakathon
+- 🤖 Passionate about **AI, Machine Learning, and Research**
+- 🎶 Keyboard & Guitar player | 🎧 Audiophile
+- ⛪ Sundays at church keep me grounded
 
 ---
 
-## 🛠 Tech Stack
-**Languages:** Python, JavaScript, HTML/CSS, SQL  
-**Libraries & Frameworks:** TensorFlow/Keras, Scikit-learn, Pandas, NumPy, OpenCV, Node.js  
-**Tools:** Git, VS Code, Google Colab, Jupyter, Figma  
-**Specialties:** Data Visualization, Image Classification, NLP, AI-powered Scheduling
+<!-- Skills -->
+## ⚡ Tech Stack
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI / ML Frameworks:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 
 ---
 
-## 📌 Featured Projects
-- **RetailSync AI** – AI-driven workforce scheduling & performance tracking for retail  
-- **AI-Based Shopping Assistant** – Virtual try-on + AR wearables with NLP  
-- **NO₂ Downscaling Model** – Hybrid AI pipeline for satellite-based air quality mapping  
-- **CCTV Shoplifting Detection** – Deep learning–powered suspicious activity detection
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joshhuu&show_icons=true&theme=radical" alt="Josh's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshhuu&theme=radical" alt="GitHub streak" width="48%"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshhuu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshhuu&layout=compact&theme=tokyonight)
+<!-- Top Languages -->
+## 🗂️ Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshhuu&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 🐦 [Twitter/X](https://twitter.com/your-handle)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 📧 **your.email@example.com**
+<!-- Connect -->
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
 
-⭐ *"Building stuff that makes an impact – one project at a time."*
+<p align="center">
+  💡 *"Blending creativity and logic to build the future."*
+</p>
