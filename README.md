@@ -16,9 +16,9 @@ Building impactful AI solutions, mentoring future coders, and constantly explori
 
 ## 🏆 Achievements
 
-**Smart India Hackathon 2024 Finalist** - Finalist at the 7th edition of the national-level Smart India Hackathon Grand Finale 2024 as part of Team 6 Watts. We tackled a real-world problem statement provided by ISRO, with the finale held at Gujarat Technological University, Ahmedabad, on December 11–12, 2024.
+- 🎉 **Smart India Hackathon 2024 Finalist** - Finalist at the 7th edition of the national-level Smart India Hackathon Grand Finale 2024 as part of Team 6 Watts. We tackled a real-world problem statement provided by ISRO, with the finale held at Gujarat Technological University, Ahmedabad, on December 11–12, 2024.
 
-**Top 100 Finalist – Rakathon 2024** - Selected from over 8,900+ teams for the finals held at Crimson House, Bangalore, on August 30–31, 2024. A high-intensity 48-hour hackathon filled with collaboration, learning, and mentorship from industry experts, startup founders, and researchers — hosted by **Rakuten India**.
+- 🎉 **Top 100 Finalist – Rakathon 2024** - Selected from over 8,900+ teams for the finals held at Crimson House, Bangalore, on August 30–31, 2024. A high-intensity 48-hour hackathon filled with collaboration, learning, and mentorship from industry experts, startup founders, and researchers — hosted by **Rakuten India**.
 
 ## 🛠 Tech Stack
 
