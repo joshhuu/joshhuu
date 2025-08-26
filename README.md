@@ -79,9 +79,6 @@ Building impactful AI solutions, mentoring future coders, and constantly explori
 ### 📈 Contribution Graph
 ![Josh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joshhuu&theme=tokyo-night&hide_border=true)
 
-### 🔥 GitHub Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=joshhuu&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 📫 Let’s Connect
