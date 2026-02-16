@@ -64,7 +64,8 @@ Machine learning pipeline converting low-resolution satellite pollution data int
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshhuu&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=joshhuu&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -75,4 +76,8 @@ Machine learning pipeline converting low-resolution satellite pollution data int
 
 ---
 
-⭐ *Build systems. Solve problems. Ship consistently.*
+## 💬 Quote
+![Quote](https://img.shields.io/badge/%22Stay%20hungry%2C%20stay%20foolish.%22%20%E2%80%94%20Steve%20Jobs-blueviolet?style=for-the-badge)
+
+⭐ *"Code. Learn. Build. Repeat."*
+
