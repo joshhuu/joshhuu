@@ -160,18 +160,30 @@ ML pipeline converting low-resolution satellite pollution data into high-resolut
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=joshhuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=9ece6a&text_color=c0caf5" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshhuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" height="165"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=joshhuu&theme=tokyonight&hide_border=true&background=1a1b27&stroke=414868&ring=7aa2f7&fire=f7768e&currStreakLabel=c0caf5)](https://git.io/streak-stats)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joshhuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshhuu&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 <br/>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshhuu&theme=algolia" width="100%" /> 
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshhuu&theme=algolia" width="31%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshhuu&theme=algolia" width="31%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joshhuu&theme=algolia" width="31%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joshhuu&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=joshhuu&theme=algolia&no-frame=true&column=8" width="100%"/>
 
 </div>
 
