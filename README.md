@@ -162,15 +162,13 @@ ML pipeline converting low-resolution satellite pollution data into high-resolut
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joshhuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshhuu&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=joshhuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=9ece6a&text_color=c0caf5" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshhuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" height="165"/>
 
 <br/>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshhuu&theme=algolia" width="100%" /> 
+
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshhuu&theme=algolia" width="31%"/>
