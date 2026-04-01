@@ -162,8 +162,6 @@ ML pipeline converting low-resolution satellite pollution data into high-resolut
 
 ## 📊 GitHub Analytics
 
-<br/>
-
 <div align="center">
 
 <br/><br/>
