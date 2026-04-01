@@ -183,8 +183,6 @@ ML pipeline converting low-resolution satellite pollution data into high-resolut
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=joshhuu&theme=algolia&no-frame=true&column=8" width="100%"/>
-
 </div>
 
 ---
