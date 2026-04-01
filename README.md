@@ -175,7 +175,7 @@ ML pipeline converting low-resolution satellite pollution data into high-resolut
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshhuu&theme=algolia" width="31%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshhuu&theme=algolia" width="31%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joshhuu&theme=algolia" width="31%" />
+
 
 <br/><br/>
 
