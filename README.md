@@ -162,9 +162,6 @@ ML pipeline converting low-resolution satellite pollution data into high-resolut
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=joshhuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=9ece6a&text_color=c0caf5" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshhuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" height="165"/>
-
 <br/>
 
 <div align="center">
