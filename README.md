@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Joshua%20Suresh&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=Applied%20AI%20Builder%20%7C%20Agentic%20Systems%20%7C%20LLM%20%2B%20Full%20Stack&descAlignY=60&descColor=9aa5ce&animation=fadeIn" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-joshuatech.vercel.app-7aa2f7?style=for-the-badge&labelColor=1a1b27)](https://joshuatech.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-joshuatech.vercel.app-7aa2f7?style=for-the-badge&labelColor=1a1b27)](https://joshuas.tech)
 [![GitHub](https://img.shields.io/badge/GitHub-joshhuu-414868?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b27)](https://github.com/joshhuu)
 [![Email](https://img.shields.io/badge/📧_Email-joshuasuresh08-f7768e?style=for-the-badge&labelColor=1a1b27)](mailto:joshuasuresh08@gmail.com)
 
