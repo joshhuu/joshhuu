@@ -18,7 +18,7 @@
 
 ```python
 class JoshuaSuresh:
-    role        = "AI Engineering Intern @ Infynd"
+    role        = "AI Intern @ Cornerstohn Solutions"
     education   = "B.Tech – AI & Data Science · KAHE, Coimbatore"
     focus       = ["Agentic Systems", "LLM Orchestration", "RAG Pipelines", "Full Stack AI Apps"]
     freelancing = ["AI Product Development", "Full Stack (React + FastAPI)", "LLM Integrations"]
